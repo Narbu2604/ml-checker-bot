@@ -1,0 +1,14 @@
+{
+  "name": "ml-checker-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot to check Mobile Legends user info using Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^19.0.0",
+    "node-telegram-bot-api": "^0.56.0",
+    "dotenv": "^16.0.3"
+  }
+}
